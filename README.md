@@ -5,11 +5,12 @@
 info [official site](https://quedadasestelaresmadrid.com).
 
 ## Installation instructions
+Stela is a CodeIgniter 4.0.4 implementation.
 Tested on LAMP servers over SSL.
 
 
 ### Codeigniter install
-Unzip or clone the latest version of Stela into web path (usually /var/www/html). Stela is a CodeIgniter4 implementation.
+Unzip or clone the latest version of Stela into web path (usually /var/www/html). 
 
 Set configuration files with the corresponding data:
 > app/config/app.php
