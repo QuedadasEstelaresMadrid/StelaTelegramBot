@@ -14,6 +14,7 @@ Unzip or clone the latest version of Stela into web path (usually /var/www/html)
 
 Set configuration files with the corresponding data:
 > app/config/app.php
+
 > application/config/database.php
 
 ### MySQL install
